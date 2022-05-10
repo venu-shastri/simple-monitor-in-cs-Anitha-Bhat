@@ -113,6 +113,3 @@ class Checker
     return 0;
   }
 }
-
-  }
-}
