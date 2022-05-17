@@ -34,7 +34,7 @@ class Checker
   {
     if (chargeRate > 0.8)
     {
-      printText("Charge Rate is out of range!");
+      printText("Charge Rate is out of range ");
       return false;
     }
 
